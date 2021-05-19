@@ -7,3 +7,10 @@
 4. _delete_
 
 
+**mongoDB compass is mongoDb ui** 
+
+. first download mongodb compass from mongoDB web for windows
+. then install the software in pc
+. then open the ui and connect with server or host port (mongodb://localhost:27017)
+connection ok
+
